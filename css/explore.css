@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.h4{
+    text-align: justify;
+}
+
+.sidebar{
+    margin-left: 12.5%;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 5px solid white;
+    width: 75%;
+    height: 88em;
+    background-color: darkslategrey;
+    padding:100px;    
+}
+
+.col-lg-6 myMargin{
+    text-align: justify;
+}
+
+.sidebar1{
+    margin-left: 19.3%;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 5px solid white;
+    width: 53%;
+    height: 42em;
+    background-color: darkslategrey;
+    padding: 60px;
+}
+
+.sidebar2{
+    margin-left: 19.3%;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 5px solid white;
+    width: 53%;
+    height: 185em;
+    background-color: darkslategrey;
+    padding: 60px;
+}
+
+.sidebar3{
+    margin-left: 19.3%;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 5px solid white;
+    width: 53%;
+    height: 130em;
+    background-color: darkslategrey;
+    padding: 60px;
+}
+
+.sidebar4{
+    margin-left: 19.3%;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 5px solid white;
+    width: 53%;
+    height: 153em;
+    background-color: darkslategrey;
+    padding: 60px;
+}
+
+.sidebar5{
+    margin-left: 19.3%;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    border: 5px solid white;
+    width: 53%;
+    height: 137em;
+    background-color: darkslategrey;
+    padding: 60px;
+}
